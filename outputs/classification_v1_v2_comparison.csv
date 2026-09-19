@@ -1,0 +1,4 @@
+ticket_id,actual_type,v1_prediction,v2_output
+1,Incident,Incident,Incident
+2,Incident,Incident,Problem
+3,Change,Change,Change

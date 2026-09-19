@@ -1,0 +1,13 @@
+eval_id,subject,type,v1_prediction,v2_prediction,v3_prediction,v1_correct,v2_correct,v3_correct
+1,No subject,Change,Change,Change,Change,True,True,True
+2,Support Request for Billing Details Update,Change,Request,Request,Request,False,False,False
+3,Enhancements to User Interface for Project Management,Change,Change,Change,Change,True,True,True
+4,Problem with SaaS Dashboard Display,Incident,Incident,Problem,Problem,True,False,False
+5,Urgent Assistance Required for Medical Data Security Breach,Incident,Incident,Incident,Incident,True,True,True
+6,No subject,Incident,Incident,Incident,Incident,True,True,True
+7,Challenges in Marketing Campaigns,Problem,Problem,Problem,Problem,True,True,True
+8,Problem Regarding Data Encryption,Problem,Incident,Problem,Problem,False,True,True
+9,Network Connectivity Problem,Problem,Incident,Problem,Incident,False,True,False
+10,Support for Integrating Drupal with Magento,Request,Request,Request,Request,True,True,True
+11,Payment Methods for Subscription Plans,Request,Request,Request,Request,True,True,True
+12,Available Tools for Investment Optimization Analytics,Request,Request,Request,Request,True,True,True

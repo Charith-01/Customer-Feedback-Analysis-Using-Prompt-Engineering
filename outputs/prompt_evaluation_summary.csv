@@ -1,0 +1,4 @@
+task,prompt_version,sample_size,result,main_observation
+Classification,V1,3,3/3 matched dataset labels; output was verbose,Good initial predictions but inconsistent/verbose output format
+Classification,V2,3,2/3 matched dataset labels; output format was clean,"Improved output consistency, but one Incident/Problem disagreement"
+Classification,V3,1,Tested on ambiguous ticket; predicted Problem instead of dataset label Incident,Clearer decision rules did not resolve the ambiguous ticket
